@@ -1,0 +1,42 @@
+{
+  "dataset": "1.23",
+  "duplicate_content": 0,
+  "inputs": {
+    "main": {
+      "bytes": 369803811,
+      "file": "lib/output/midicn-lib-v1.23-main.zip",
+      "sha256": "e1fb3b176080a200b60b78ede188ed61b4cd8393df2e9da987f281b700887632"
+    },
+    "piano-special": {
+      "bytes": 319393666,
+      "file": "lib/output/midicn-lib-v1.23-piano-special.zip",
+      "sha256": "787051aa61bbaa34dde12aa8624cad64db4c3be819440df2b0d15e4d717aae08"
+    },
+    "study": {
+      "bytes": 56825373,
+      "file": "lib/output/midicn-lib-v1.23-study.zip",
+      "sha256": "b2b95e7b19d20825ede1ac7845eda91f8c4b06afb4f3709d8e4d04fefdd99184"
+    }
+  },
+  "locator_sha256": "982b7ad004ce6843aa857f87bbf2fb3543034e631e82475c4733709cb8bd486f",
+  "schema": 1,
+  "tracks": 133667,
+  "version": "v1.23-web-r1",
+  "packages": {
+    "mid": {
+      "bytes": 459016473,
+      "expanded_bytes": 660346833,
+      "file": "midicn-midi-v1.23-web-r1-mid.zip",
+      "sha256": "d895d6d9a918191d1699a22f93271aec1cf04468188ed15f811eb013686ff81d",
+      "url": "https://github.com/midicn/midi-library/releases/download/v1.23-web-r1/midicn-midi-v1.23-web-r1-mid.zip"
+    },
+    "zip": {
+      "bytes": 536382788,
+      "expanded_bytes": 786163863,
+      "file": "midicn-midi-v1.23-web-r1-zip.zip",
+      "sha256": "b4b47d4f0359c133ceb4bd194481f027dc25ee103828228c1422127da6f21d45",
+      "url": "https://github.com/midicn/midi-library/releases/download/v1.23-web-r1/midicn-midi-v1.23-web-r1-zip.zip"
+    }
+  },
+  "status": "prepared-locally-not-published"
+}
